@@ -121,9 +121,9 @@ TextureImporter:
       name: lichtii_1
       rect:
         serializedVersion: 2
-        x: 51
+        x: 52
         y: 0
-        width: 33
+        width: 32
         height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
