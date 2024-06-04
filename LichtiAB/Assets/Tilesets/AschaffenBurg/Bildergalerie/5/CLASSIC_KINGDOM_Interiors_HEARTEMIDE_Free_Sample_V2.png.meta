@@ -1,0 +1,3986 @@
+fileFormatVersion: 2
+guid: cc3a5b06bcb884a4eb926b49291a6491
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42be980b5cc9ccb4a91c7aa1eeb45588
+      internalID: 1940280949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826fbe5ee13b75549a3f3f2e740238dc
+      internalID: 378116492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f4a4b7f7b4a6648b9aa9531136f6d0
+      internalID: 1615668119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d2f24212503fc4b9c02fdafe8c0ca2
+      internalID: 1300008250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f5d9182c6ceb40812efe7ce04e0c9
+      internalID: -1290828097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda89861befe0194eb98972d267438c0
+      internalID: 1448961129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c4630442b49c94cbe18679342ac100
+      internalID: -1219800095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f9f61c9f6a6f40a8595fbb3c6d3b8
+      internalID: -1750269247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80ba94626dc60e4d8d11634bb6838e3
+      internalID: 107694305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e450d9e7682a39a498d5945e0a3c7ad6
+      internalID: -1925171515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa81ed0550fc654bb822711697f583f
+      internalID: 936358702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e626d952234ad4d90bff1e24a10961
+      internalID: 867238442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1254074958343947972906818f23e11
+      internalID: 113638736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9cadebcdf62134d91a244d535fc281
+      internalID: 1444548192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e7b4d1457bdb4899b4431a11c6c9f
+      internalID: -1461330983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5cd5a65b768e4f9360f4b849dea8e
+      internalID: -1871395414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232a37efe3d161246a488e5febcddaea
+      internalID: 177540644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219c8a9d23394d46a74cc8418cdd505
+      internalID: 631676996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f0099acb3e36d4cb6ebdf34d3c0515
+      internalID: 968780940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e95d06d33abac449ff3813c686e9a6
+      internalID: -598136059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1487b726ca960d4f94afa3fa8d5db5e
+      internalID: -2147203309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea0c6112d933504d8491f4e42e9a44c
+      internalID: -648129155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b7ce2268f415b4b9125a8859a0eba0
+      internalID: -1779704501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efba4a5bf64ee941899518e590945af
+      internalID: -167316013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1407b7f083a3d4b886e8b3ffc2aa08
+      internalID: -1181389735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e9860c64abe846b2269a203a89552
+      internalID: -1187166072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0b3cd7d9f1d314f859bf6f704380c5
+      internalID: -1836720885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f4d030a84603f4dac2d7e1582709d4
+      internalID: 587696924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f96a2701c4dfd40aa45c4473f8787d
+      internalID: 1543566674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687f52eadb2fed144b94a6abe8c70f2c
+      internalID: -255833207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c3a52f093fff64f8af69bc2c7974fe
+      internalID: 1225872080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a47e4fb620508c4da274745e407ae9a
+      internalID: 1500757322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad5714e09216e9478f36818b2ea8d22
+      internalID: -1499348410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe8a5290026994408b042099e1b7a59
+      internalID: 47900784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e6e17c5dfe52e4eaec5d9f4958d5d6
+      internalID: 747485724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a5a2e981945a42894285514519288
+      internalID: 816777988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c0b5fba4163884a90d1b279e2b9b39
+      internalID: -1538378500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df61eb10246cc714ea5e227920fda24f
+      internalID: -190286785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c5128e19f58347b4fcd9a65653274
+      internalID: -1221052943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be3b19afe0d024f9de1a59644efa23
+      internalID: -12204435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52875bfee81f1a140b027e9f63ad22b7
+      internalID: -1016922815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795083998f8142742acc5bacc257eae5
+      internalID: 232891453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f929f1bce381cb14db95fa6ff8ab454d
+      internalID: 1027205611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ceb22b9a8ee8940b4fa4c51164c188
+      internalID: -1458306781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d689fe43b71a1884ca8cf6ca4479d04e
+      internalID: -1142070934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc8c52b5b90ed4ea42b6ef96cb67c9
+      internalID: 1991446965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba093af2f91e041ab775b3e2a33251
+      internalID: -180013283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2472ac3075f269c469ed98f8073d2477
+      internalID: 167493443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c751bc714ce2bbf4682f392adc82592c
+      internalID: 1076223323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3973ce6a9357e54b843a28f25206c9e
+      internalID: -666067005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa23397ec77c77418be033fb39344d3
+      internalID: -1374537279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd7dd6559a416408bdefc4c675f70d
+      internalID: -1547970834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47087eab782d53843aa92fecf90903ed
+      internalID: 982332235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dafa0cab05dd349bbce8c190d07a8d
+      internalID: 810104271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddc7417651f7df4b95b2c4c1c6842e5
+      internalID: 297767376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dcafac24697be4c91564bc6a40b43c
+      internalID: 798736355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031545ca0dd45b4ca92b7102394a797
+      internalID: 863697790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b85b6e8fb2b5443ba1ea3d7686b507
+      internalID: -881905184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13e11d82714b24cbb8390e120e1739
+      internalID: -325662066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67173c7816334394f8a07f7e0b017ab4
+      internalID: -1774344228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b408854ad8dd7414b924598433fcec40
+      internalID: 1437943038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd879689c9fe9b4abe53e2e9095cdba
+      internalID: 761513882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015a07a159aae9847836e76990777206
+      internalID: -1706890297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9afc07ca1e30d42b6c42972e7636e1
+      internalID: -435648565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d5486e24047384798c727ee58529a0
+      internalID: 1533591152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dd17169ab19da4c9e748ba325bb39c
+      internalID: -859339314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897c0d38f96cf1548b4176e3e3d0db32
+      internalID: 137460569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926e00d6b3c882245948872a5043be8e
+      internalID: 1987213794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3666aeb93a681849b8d1856ae935d12
+      internalID: 1544696834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62281e16232b44e85c3a9116b7e873
+      internalID: 1556106980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e5fc13b413b944abface2fa972c9d
+      internalID: 610217019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7768bf28852f041943c9c63b28ee0f
+      internalID: -788900362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc4fd57ad65484da7d6d193ad68604
+      internalID: -1841723836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a6c3ae2be99b4085cc8c6bee346ad
+      internalID: -1628565511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354084de6d7282740a00f3bea7fbde96
+      internalID: -899065453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e659bc53ca37dd439ea73822ec2eac8
+      internalID: 844105638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb4a566056fb134386c4c79ed872d3b
+      internalID: 649591431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19073cdb45977a4eb78997c4b4bb5e4
+      internalID: 1584397968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a58fe0c03b59ef4a80a71a1cbd79098
+      internalID: -988723861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f09b2c5742894dbb171bd951d983b
+      internalID: 2029600389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be81d4f3dc12efa4cbfac1971df62fb9
+      internalID: -179918561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82fd4e25c5897a47b92f740972e89b4
+      internalID: -1068543847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53af3a6ed98f94aa307855f34e7785
+      internalID: 515341526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a990f8c8cd2e141a79c97e1f029429
+      internalID: 638798768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81854ce229442443917821d3c2dd778
+      internalID: -744295215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3269b0df4705884295ea5e607842250
+      internalID: 661222154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bb12926885c304d93b576946001e76
+      internalID: 1883586326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7d1c38e99f84d40b0c59e02e455150
+      internalID: -1627458556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb3ac91139d51b4b8ab075ee461d415
+      internalID: 1030950842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddac51cfa23f80469cfe1d489582cd8
+      internalID: -1543270851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee9f207204c224b9184b00ee1e36db
+      internalID: 43682980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594cbfc1f8911b1409a214808a9f4811
+      internalID: -143986634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd8bc1b42691fd4aa996fa26bc7addd
+      internalID: 2112436049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd1dfde5f7c30489992b5bb4414a5f
+      internalID: -1188380795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_94
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210956677e360b4ba20c0d82afb58be
+      internalID: 1965735741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc74debf04d8af48a9f24d5a4fe75ff
+      internalID: -1425596077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_96
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dbb9cf65c032e438d02930291fa980
+      internalID: -1742971101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a68dad5e45247240b0adc4719b0beaa
+      internalID: 522229520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a425ab3c9f3164a967a1fa546c6e47
+      internalID: 1219768626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4dff3149277347895aee4d14b8acc
+      internalID: 642959984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5e9d25b018e7d44a5c984b77f4052c
+      internalID: -973190412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fce8a49eecb5148aa01ec6e0d00aea
+      internalID: -279296547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a8c8dec1aac7f4d8fa650f72dd1cf8
+      internalID: -676089414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ef0597fb58b84b9e60a3ab15d05bd
+      internalID: -149177822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884f593b0de8eaa44b558912709c37db
+      internalID: 712716155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1452b11907fff234a8ff84a74d2c9291
+      internalID: 274164003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9617e72840ab247a3f7d695d861658
+      internalID: 1806425796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452a47dfcc592fe478124664046c589a
+      internalID: 838073443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_108
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7b378d5b69c243b7cb06a9e35e03f
+      internalID: 1285577019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99105e99960325468f15d99bf82d576
+      internalID: -2084775440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e076f9e1b7e340bd7619cdeda03dc
+      internalID: 1818828468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bc148e7849b284a9ff77c2417485f9
+      internalID: 1278851407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0fcc848cb58bd4fbc86425e61f6c09
+      internalID: 1756698891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4a074de08c8441a2d4b77ccf4d9f1
+      internalID: 151687148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea24c10aa3e3c6646aa886f0e38048d2
+      internalID: 1054550956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_115
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb8351ebb328f6458e8241748f544ab
+      internalID: -1667388816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df838067ba38c342a51b21721fafd92
+      internalID: 1219052259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_117
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85098273a7f19074a88fb8bd64ed25e0
+      internalID: 1287574294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec71a7b387f9234f9a4622797a8c77d
+      internalID: 494883468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bb4682cedc7334fb19b4e58772a6b7
+      internalID: -2031891050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e586cfe58bff1b34cb885f5d10599303
+      internalID: 419045907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667fdde8563c775458eaf49327a91480
+      internalID: -247280848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c37f4d5d3d0424581943e22db25ed3
+      internalID: 335109034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399894426c14b974dae88b945ccc2283
+      internalID: -1482469675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0c38850eeb8c14b822cc04a9a4d939
+      internalID: 646250763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee367b2b136f04f85ec9d2457f426e
+      internalID: -517461810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b3e8b964c327f48acbedcaaef1ba55
+      internalID: -312130754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cdcc6cd7e781740ac1ac3a9675ceb5
+      internalID: -1804790852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dfd97c67fefb24f905564bbc80e08d
+      internalID: -900908251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_129
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08bf9c24ce9954dbfdebaf4fd3e658
+      internalID: -159413284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89ae57bef2c9274bb73c1489a09ba67
+      internalID: -845880092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a81a1f82805f41946f04d01893864
+      internalID: -2109513448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_132
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5234c9391b2ec6f4a9c0db9b6f4c3ba9
+      internalID: -1885070476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c91fc492bc0647902a6490c6747cf
+      internalID: 264796118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e30cf6c9565e4f96e7e53196243d9
+      internalID: 985127925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b2423f07577eb499b0d1b839c02d91
+      internalID: 398261399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4aef88ad4adfe41b81ce46098be0b5
+      internalID: 2081003476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f99c3d59f4e549998d18c6454a532
+      internalID: -308614007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3e8ddd61d1e464ab0f78a7e9a3510f
+      internalID: 1007037739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e9f4b6ae4af8459a806307cd667ec
+      internalID: -724669682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443cfd96921efa4cbff2d69c25bfc65
+      internalID: 551644670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9452060a7ede30f4e80f24028d436d60
+      internalID: 693938956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc87fb4b52672f4eb7928d526616570
+      internalID: -971650672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_143
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2dcc3521c561e49ac6f49e5715d2ce
+      internalID: -1185272707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_144
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0161e0187877a4084759ecd8eaba20
+      internalID: -940314963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_145
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86899c86f364c704bbcf2087f85946c0
+      internalID: 245367039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71952ce923efdb7428395776d724485a
+      internalID: -1923485978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce4fb3c8447ee46a59fefe6a5ca115
+      internalID: 1685997558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2e58663c36a442b3c9c38308d2ce9
+      internalID: -376630067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b1fa5e5dc43224485fc66ddebdbd1a
+      internalID: -1172174946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341201488594594db7b297d0d19e5be
+      internalID: -362064720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6897ce55ea627e140ab8ddf531374730
+      internalID: -2032015533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86007ee0ba4244c4e9d240714b5d99d1
+      internalID: 275897585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_153
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c78675f66065e44ab9d37623a9db77
+      internalID: 2047694953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d34b592c16b5404a9aa1762432932ec
+      internalID: 1965930356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62908d9ce95776b4eb64ebda843e7f73
+      internalID: -1524540930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cace3e619c10ea45a2190544ba141d8
+      internalID: -1368997366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_157
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b42ccc6ecf74394f947ff0cbe023e7c
+      internalID: 1097879688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392dbacf2fe05de4fbb6f0233e02f448
+      internalID: 2142299269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_159
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1328381e6086d34c9b71ac118470090
+      internalID: 838516165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c59396431574e408b05f52587710a3
+      internalID: -983937445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f605b103f116c549947cb33558addef
+      internalID: 1170909733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9380d65efb22f1f4d9f73c437c9390ef
+      internalID: 685329668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fafda76dc642d44eacb0c23bcc15cde
+      internalID: -1801936377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e565281d5b33148bc7c52eef61c784
+      internalID: 1235558731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e90aae25b2cd5498696463b90d096c
+      internalID: -1114044091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a7879adcaf5f438d6e4c1f7cce66b
+      internalID: 1513676127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_167
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d417caa370ac43448337ec7789f8afc
+      internalID: -441927413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75f4c4b1f94ab49b314165f8b764ac
+      internalID: 553487544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d7f5de409e37c488399cafaa977b3a
+      internalID: 1232068911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf90ccffcf82148adb64453afc2a90
+      internalID: -1155044424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1884ed42ab68749897fd7ade2c331a
+      internalID: -1987227563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47b7c9cd1f3364fae944636a16d6b8
+      internalID: 529176410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f259d673f8f544388c1868ee4b35b3
+      internalID: -1906657631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b0894c1a22fdd44a5dafbc32282b6d
+      internalID: 1367921569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_175
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97dad5095e9f8241bf8d0a7e3e9e544
+      internalID: 1003541069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_0: 1940280949
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_1: 378116492
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_10: 936358702
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_100: -973190412
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_101: -279296547
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_102: -676089414
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_103: -149177822
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_104: 712716155
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_105: 274164003
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_106: 1806425796
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_107: 838073443
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_108: 1285577019
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_109: -2084775440
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_11: 867238442
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_110: 1818828468
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_111: 1278851407
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_112: 1756698891
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_113: 151687148
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_114: 1054550956
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_115: -1667388816
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_116: 1219052259
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_117: 1287574294
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_118: 494883468
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_119: -2031891050
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_12: 113638736
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_120: 419045907
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_121: -247280848
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_122: 335109034
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_123: -1482469675
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_124: 646250763
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_125: -517461810
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_126: -312130754
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_127: -1804790852
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_128: -900908251
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_129: -159413284
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_13: 1444548192
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_130: -845880092
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_131: -2109513448
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_132: -1885070476
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_133: 264796118
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_134: 985127925
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_135: 398261399
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_136: 2081003476
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_137: -308614007
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_138: 1007037739
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_139: -724669682
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_14: -1461330983
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_140: 551644670
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_141: 693938956
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_142: -971650672
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_143: -1185272707
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_144: -940314963
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_145: 245367039
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_146: -1923485978
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_147: 1685997558
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_148: -376630067
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_149: -1172174946
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_15: -1871395414
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_150: -362064720
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_151: -2032015533
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_152: 275897585
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_153: 2047694953
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_154: 1965930356
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_155: -1524540930
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_156: -1368997366
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_157: 1097879688
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_158: 2142299269
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_159: 838516165
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_16: 177540644
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_160: -983937445
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_161: 1170909733
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_162: 685329668
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_163: -1801936377
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_164: 1235558731
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_165: -1114044091
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_166: 1513676127
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_167: -441927413
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_168: 553487544
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_169: 1232068911
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_17: 631676996
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_170: -1155044424
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_171: -1987227563
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_172: 529176410
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_173: -1906657631
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_174: 1367921569
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_175: 1003541069
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_18: 968780940
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_19: -598136059
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_2: 1615668119
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_20: -2147203309
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_21: -648129155
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_22: -1779704501
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_23: -167316013
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_24: -1181389735
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_25: -1187166072
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_26: -1836720885
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_27: 587696924
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_28: 1543566674
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_29: -255833207
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_3: 1300008250
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_30: 1225872080
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_31: 1500757322
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_32: -1499348410
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_33: 47900784
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_34: 747485724
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_35: 816777988
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_36: -1538378500
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_37: -190286785
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_38: -1221052943
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_39: -12204435
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_4: -1290828097
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_40: -1016922815
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_41: 232891453
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_42: 1027205611
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_43: -1458306781
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_44: -1142070934
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_45: 1991446965
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_46: -180013283
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_47: 167493443
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_48: 1076223323
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_49: -666067005
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_5: 1448961129
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_50: -1374537279
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_51: -1547970834
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_52: 982332235
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_53: 810104271
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_54: 297767376
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_55: 798736355
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_56: 863697790
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_57: -881905184
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_58: -325662066
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_59: -1774344228
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_6: -1219800095
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_60: 1437943038
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_61: 761513882
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_62: -1706890297
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_63: -435648565
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_64: 1533591152
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_65: -859339314
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_66: 137460569
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_67: 1987213794
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_68: 1544696834
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_69: 1556106980
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_7: -1750269247
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_70: 610217019
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_71: -788900362
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_72: -1841723836
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_73: -1628565511
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_74: -899065453
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_75: 844105638
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_76: 649591431
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_77: 1584397968
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_78: -988723861
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_79: 2029600389
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_8: 107694305
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_80: -179918561
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_81: -1068543847
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_82: 515341526
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_83: 638798768
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_84: -744295215
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_85: 661222154
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_86: 1883586326
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_87: -1627458556
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_88: 1030950842
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_89: -1543270851
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_9: -1925171515
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_90: 43682980
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_91: -143986634
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_92: 2112436049
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_93: -1188380795
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_94: 1965735741
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_95: -1425596077
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_96: -1742971101
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_97: 522229520
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_98: 1219768626
+      CLASSIC_KINGDOM_Interiors_HEARTEMIDE_Free_Sample_V2_99: 642959984
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
