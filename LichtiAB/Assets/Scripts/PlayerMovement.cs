@@ -36,7 +36,8 @@ public class PlayerMovement : MonoBehaviour
        rbody.MovePosition(rbody.position + _movement * speed * Time.fixedDeltaTime);
        
     }
-   public void setBool(bool b){
-         canEnter = b;
+   public void setBool()
+   {
+         canEnter = true;
     }
 }

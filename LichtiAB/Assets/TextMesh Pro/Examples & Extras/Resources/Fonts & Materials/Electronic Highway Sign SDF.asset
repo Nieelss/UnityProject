@@ -99,7 +99,7 @@ Material:
     - _Diffuse: 0.5
     - _DstBlend: 0
     - _EnableExternalAlpha: 0
-    - _FaceDilate: 0.15
+    - _FaceDilate: 0.25
     - _FaceUVSpeedX: 0
     - _FaceUVSpeedY: 0
     - _GlossMapScale: 1
@@ -125,8 +125,8 @@ Material:
     - _PerspectiveFilter: 0.83
     - _Reflectivity: 10
     - _ScaleRatioA: 0.90909094
-    - _ScaleRatioB: 0.60227275
-    - _ScaleRatioC: 0.60227275
+    - _ScaleRatioB: 0.5113636
+    - _ScaleRatioC: 0.5113636
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0

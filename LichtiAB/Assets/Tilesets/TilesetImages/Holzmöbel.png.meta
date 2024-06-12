@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0bf5c41e72be1aa4fb9265f068e1e9a8
+guid: f3456b228d764ef4f9c606b77165520f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Schloss_0
+      name: "Holzm\xF6bel_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7fc46fa30e74247bc537ddb58ab76b
+      internalID: -367208219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Holzm\xF6bel_1"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b301b00c5c47a6a4e8e7630a8ab0c427
+      internalID: -2109627292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Holzm\xF6bel_2"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7863106a801732545887653e778e4d8c
+      internalID: 745290749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Holzm\xF6bel_3"
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4467e3bfe3d3df444bd50be86f59c9b8
-      internalID: -823513592
+      spriteID: 3fe20d54d47ee9d4193543f446b923d0
+      internalID: -2134479741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_1
+      name: "Holzm\xF6bel_4"
       rect:
         serializedVersion: 2
         x: 16
@@ -132,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa57c97392594d34180128d43f177d61
-      internalID: 356626196
+      spriteID: 1a61fa4af6c3fdc468119d76c3930404
+      internalID: 609675664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_2
+      name: "Holzm\xF6bel_5"
       rect:
         serializedVersion: 2
         x: 32
@@ -153,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8b87f29e59db214a8e5303ab8a96902
-      internalID: -467181690
+      spriteID: 5bb91a8b25201504fb787f577b719066
+      internalID: 1500867823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_3
+      name: "Holzm\xF6bel_6"
       rect:
         serializedVersion: 2
         x: 48
@@ -174,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f2d0854006602b45849109fc4421f92
-      internalID: -886544806
+      spriteID: 7702455c7e46ff642a869a1b53bc43d7
+      internalID: -1457046413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_4
+      name: "Holzm\xF6bel_7"
       rect:
         serializedVersion: 2
         x: 64
@@ -195,14 +258,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7606a2758b6f6534babd7182f4c719af
-      internalID: 776483027
+      spriteID: 6c302e4aaa04bc249b5561c4ba778a97
+      internalID: 1161348898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_5
+      name: "Holzm\xF6bel_8"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308230da2436dae4684304f3a6454e1f
+      internalID: -666740591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Holzm\xF6bel_9"
       rect:
         serializedVersion: 2
         x: 0
@@ -216,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9206bd3931b976c479d6d8b77d848233
-      internalID: -1186010926
+      spriteID: e7d1362ec4bc2b3479de4abcd91185a0
+      internalID: 305550380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_6
+      name: "Holzm\xF6bel_10"
       rect:
         serializedVersion: 2
         x: 16
@@ -237,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dea350db79ac0742af53ed7976e67f9
-      internalID: 19791353
+      spriteID: ef4175a5d1ebe9b40988457c60cbf286
+      internalID: 1484697445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_7
+      name: "Holzm\xF6bel_11"
       rect:
         serializedVersion: 2
         x: 32
@@ -258,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bf4179d133981143998a2f4479e0084
-      internalID: 1208711986
+      spriteID: 8f901eff1a5ea9c4eb0372dc45f1ed68
+      internalID: -674163509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_8
+      name: "Holzm\xF6bel_12"
       rect:
         serializedVersion: 2
         x: 48
@@ -279,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c000dfc9415891a409b45a93ab81938f
-      internalID: -1914380126
+      spriteID: 066d2398727483b4b9868d87a6fb4075
+      internalID: 1754633834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_9
+      name: "Holzm\xF6bel_13"
       rect:
         serializedVersion: 2
         x: 64
@@ -300,14 +384,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19a28290e7e86694dbf3ed88aad972b2
-      internalID: -2109561448
+      spriteID: 6ea1a7c08fbea464e87c8b8eef56516a
+      internalID: -1550286226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_10
+      name: "Holzm\xF6bel_14"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07c35eccc6661439331306ab0c3761
+      internalID: -855636504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Holzm\xF6bel_15"
       rect:
         serializedVersion: 2
         x: 0
@@ -321,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5294abb63d67d3b42b8767f39ba5d9a3
-      internalID: -985752607
+      spriteID: 568d6b7cfe7ffa34989dd3215a520a8a
+      internalID: -428763306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_11
+      name: "Holzm\xF6bel_16"
       rect:
         serializedVersion: 2
         x: 16
@@ -342,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85901a85d02fbc5468113f6f202ec30a
-      internalID: -1237207543
+      spriteID: 9152de90a50866f4a951ddc29bd91d35
+      internalID: -2078565300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_12
+      name: "Holzm\xF6bel_17"
       rect:
         serializedVersion: 2
         x: 32
@@ -363,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6af3d4e1cc2b88c4eb32b15adc680d39
-      internalID: -1420318599
+      spriteID: 4a3a5e8c5c30b854abac4736c18582f0
+      internalID: 1065364391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_13
+      name: "Holzm\xF6bel_18"
       rect:
         serializedVersion: 2
         x: 48
@@ -384,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc20e9f21c281c742af258dcf2b9acc8
-      internalID: -2102619984
+      spriteID: 925f497e674c1c04798e48e36774987e
+      internalID: 1235770406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Schloss_14
+      name: "Holzm\xF6bel_19"
       rect:
         serializedVersion: 2
         x: 64
@@ -405,8 +510,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83fdd0bea4e7f8547b56a6b9df7ad92c
-      internalID: 1940355396
+      spriteID: 193383cd229eab34893383427cb2d3dd
+      internalID: -785511000
       vertices: []
       indices: 
       edges: []
@@ -422,21 +527,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Schloss_0: -823513592
-      Schloss_1: 356626196
-      Schloss_10: -985752607
-      Schloss_11: -1237207543
-      Schloss_12: -1420318599
-      Schloss_13: -2102619984
-      Schloss_14: 1940355396
-      Schloss_2: -467181690
-      Schloss_3: -886544806
-      Schloss_4: 776483027
-      Schloss_5: -1186010926
-      Schloss_6: 19791353
-      Schloss_7: 1208711986
-      Schloss_8: -1914380126
-      Schloss_9: -2109561448
+      "Holzm\xF6bel_0": -367208219
+      "Holzm\xF6bel_1": -2109627292
+      "Holzm\xF6bel_10": 1484697445
+      "Holzm\xF6bel_11": -674163509
+      "Holzm\xF6bel_12": 1754633834
+      "Holzm\xF6bel_13": -1550286226
+      "Holzm\xF6bel_14": -855636504
+      "Holzm\xF6bel_15": -428763306
+      "Holzm\xF6bel_16": -2078565300
+      "Holzm\xF6bel_17": 1065364391
+      "Holzm\xF6bel_18": 1235770406
+      "Holzm\xF6bel_19": -785511000
+      "Holzm\xF6bel_2": 745290749
+      "Holzm\xF6bel_3": -2134479741
+      "Holzm\xF6bel_4": 609675664
+      "Holzm\xF6bel_5": 1500867823
+      "Holzm\xF6bel_6": -1457046413
+      "Holzm\xF6bel_7": 1161348898
+      "Holzm\xF6bel_8": -666740591
+      "Holzm\xF6bel_9": 305550380
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
