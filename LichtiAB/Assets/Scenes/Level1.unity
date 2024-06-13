@@ -545,7 +545,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7558480316390297210, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 0.000030343
       objectReference: {fileID: 0}
     - target: {fileID: 7558480316390297210, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -578,7 +578,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
   m_PrefabInstance: {fileID: 318444011}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 2028447993}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -707,8 +707,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   popupText2: {fileID: 1460380947}
   popupText: {fileID: 522591488}
+  questionText: {fileID: 2028447993}
   inputField: {fileID: 1058905142}
   button: {fileID: 1590876060}
+  player: {fileID: 4274647381535917897}
   isInside: 0
 --- !u!1001 &439328025
 PrefabInstance:
@@ -17462,12 +17464,12 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 40
-    m_Alignment: 0
+    m_MinSize: 0
+    m_MaxSize: 300
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 0
     m_HorizontalOverflow: 1
@@ -71577,8 +71579,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 400, y: 30}
+  m_AnchoredPosition: {x: -0.0000019073, y: -0.000026703}
+  m_SizeDelta: {x: 502.83, y: 98.25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1058905147
 MonoBehaviour:
@@ -73012,7 +73014,6 @@ GameObject:
   - component: {fileID: 1590876065}
   - component: {fileID: 1590876064}
   - component: {fileID: 1590876063}
-  - component: {fileID: 1590876062}
   - component: {fileID: 1590876066}
   m_Layer: 0
   m_Name: ConfirmInputButton
@@ -73038,24 +73039,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 327, y: 0}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 390.3, y: 0.000026703}
+  m_SizeDelta: {x: 231.89, y: 52.75}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1590876062
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1590876060}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24ad39a9dda09124a958439578777a91, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  inputField: {fileID: 1058905143}
-  resultText: {fileID: 318444013}
-  player: {fileID: 4274647381535917897}
 --- !u!114 &1590876063
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73100,7 +73086,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1590876062}
+      - m_Target: {fileID: 1590876066}
         m_TargetAssemblyTypeName: InputHandler, Assembly-CSharp
         m_MethodName: ValidateInput
         m_Mode: 1
@@ -73159,10 +73145,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1590876060}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0cb3c0045ab8e6458a75819b7671af2, type: 3}
+  m_Script: {fileID: 11500000, guid: 24ad39a9dda09124a958439578777a91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  button: {fileID: 1590876060}
+  inputField: {fileID: 1058905143}
+  resultText: {fileID: 318444013}
+  antwortText: {fileID: 2028447993}
+  text: {fileID: 2028447993}
+  player: {fileID: 4274647381535917897}
+  a: {fileID: 409595315}
 --- !u!1001 &1606606054
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -74816,6 +74807,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
+--- !u!1 &2028447993 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1291725814141019539, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
+  m_PrefabInstance: {fileID: 318444011}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2040258271
 GameObject:
   m_ObjectHideFlags: 0
