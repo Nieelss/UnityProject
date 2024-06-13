@@ -1465,6 +1465,8 @@ Tilemap:
     m_Data: {fileID: -1515722762, guid: 0bf5c41e72be1aa4fb9265f068e1e9a8, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -113235078, guid: 0bf5c41e72be1aa4fb9265f068e1e9a8, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   m_TileMatrixArray:
   - m_RefCount: 27
     m_Data:
@@ -1491,7 +1493,7 @@ Tilemap:
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: -11, y: -13, z: 0}
-  m_Size: {x: 23, y: 19, z: 1}
+  m_Size: {x: 31, y: 81, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
