@@ -12,7 +12,7 @@ public class InputHandler : MonoBehaviour
 
     public GameObject antwortText;
 
-    public GameObject text;
+    //public GameObject text;
     
     //spieler gameobject
     public GameObject player;
@@ -27,10 +27,11 @@ public class InputHandler : MonoBehaviour
     {   
         
         //text aktiviert --> nein
-            resultText.enabled = false;  
+            resultText.enabled = true;  
         //skript zuweisung von player object auf die variable      
             playerMovement = player.GetComponent<PlayerMovement>();
        interactionWardrobe = a.GetComponent<InteractionWardrobe>();
+       antwortText.SetActive(false);
        
     }
    
@@ -44,7 +45,8 @@ public class InputHandler : MonoBehaviour
             resultText.text = "Sehr gut, Richtige Antwort!";
             resultText.color = Color.green;
             Debug.Log("if else funktioniert");
-            resultText.enabled = true;
+            antwortText.SetActive(true);
+
             playerMovement.setBool();
             playerMovement.SetCanMove(true);
             interactionWardrobe.HideUI();
@@ -56,11 +58,25 @@ public class InputHandler : MonoBehaviour
             Debug.Log("else funktioniert");
             resultText.text = "Schade, die Antwort war leider falsch. Versuche es erneut";
             resultText.color = Color.red;
-            interactionWardrobe.SetPopupTextVisibility(false);
-            resultText.enabled = true;
+           interactionWardrobe.SetPopupTextVisibility(false);
+           antwortText.SetActive(true);
             Debug.Log("Status des textfeldes" + resultText.enabled);
                     }
 
     }
-  
+    public void Exit(){
+        interactionWardrobe.SetButtonVisibility(false);
+        interactionWardrobe.SetTextInputVisibility(false);
+        playerMovement.SetCanMove(true);
+        antwortText.SetActive(false);
+        interactionWardrobe.SetexitButtonVisibility(false);
+
+
+    }
+
+  public void clearInput(){
+        inputField.text = "";
+        resultText.text = "";
+
+  }
 }

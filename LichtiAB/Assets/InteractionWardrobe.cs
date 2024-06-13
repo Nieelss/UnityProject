@@ -14,6 +14,8 @@ public GameObject questionText;
 public GameObject inputField;
 //Der Button zum ein und ausblenden
 public GameObject button;
+public GameObject exitButton;
+
 public GameObject player;
  private bool isInputFieldActive = false;
 
@@ -30,7 +32,8 @@ public bool isInside = false;
  //Hier wird Textfeld 1 und 2 unsichtbar gemacht und die Zuweisung der button Komponente zu der Skript Variable
  // button wird ebenfalls unsichtbar gemacht
 void Awake()
-{
+{   
+
     bC2d = GetComponent<BoxCollider2D>();
     SetPopupTextVisibility2(false);
     SetPopupTextVisibility(false);
@@ -38,8 +41,8 @@ void Awake()
     //playerAction = new Playeractions();
     inputHandler = button.GetComponent<InputHandler>();
     button.SetActive(false);
-
-
+    SetPopupTextVisibility3(false);
+    SetexitButtonVisibility(false);
     }
 
     //Wenn der Spieler die zone verlässt 
@@ -48,14 +51,17 @@ void OnTriggerExit2D(Collider2D other)
     //Überprüft auf Tag Player
     if(other.CompareTag("Player") ){
  //Text 1 und 2 unscihtbar machen     
-        SetPopupTextVisibility(false);
+        //SetPopupTextVisibility(false);
         SetPopupTextVisibility2(false);
         Debug.Log("Zone verlassen");
         //bool wird gesetzt
         isInside = false;
         SetButtonVisibility(false);
-        SetTextInputVisibility(false);
-        
+        //SetTextInputVisibility(false);
+        SetPopupTextVisibility3(false);
+        SetexitButtonVisibility(false);
+        inputHandler.clearInput();
+
     }
 }
 
@@ -78,7 +84,7 @@ void OnTriggerExit2D(Collider2D other)
      if(value.isPressed && isInside && !isInputFieldActive) {
         Debug.Log("Funktiniert");
         //interaktiver text angezeigt
-        SetPopupTextVisibility(false);
+       SetPopupTextVisibility(true);
         //Inspizieren verschwindet
         SetPopupTextVisibility2(false);
         //außerdem wird das input field und button angezeigt
@@ -86,11 +92,14 @@ void OnTriggerExit2D(Collider2D other)
         SetButtonVisibility(true);
         //hier versuche ich auf die methode aus dem skript "inputhandler" zuzugreifen
         player.GetComponent<PlayerMovement>().SetCanMove(false);
+        SetPopupTextVisibility3(true);
+        SetexitButtonVisibility(true);
+
      }    
   
 }
 public void HideUI(){
-    SetPopupTextVisibility(false);
+   // SetPopupTextVisibility(false);
     SetButtonVisibility(false);
     SetTextInputVisibility(false);
     //SetPopupTextVisibility3(false);
@@ -120,5 +129,10 @@ public void SetTextInputVisibility(bool isVisible)
 {
         inputField.SetActive(isVisible);
          isInputFieldActive = isVisible; 
+} 
+public void SetexitButtonVisibility(bool isVisible)
+{
+        exitButton.SetActive(isVisible);
+       
 } 
 }
