@@ -51,7 +51,7 @@ void OnTriggerExit2D(Collider2D other)
     //Überprüft auf Tag Player
     if(other.CompareTag("Player") ){
  //Text 1 und 2 unscihtbar machen     
-        //SetPopupTextVisibility(false);
+        SetPopupTextVisibility(false);
         SetPopupTextVisibility2(false);
         Debug.Log("Zone verlassen");
         //bool wird gesetzt
