@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+public class InteractionDoor : MonoBehaviour
 
 
-public class Interaction : MonoBehaviour
 {
  private BoxCollider2D bC2d;
 
@@ -16,7 +16,7 @@ public GameObject popupText;
 public Playeractions playerAction;
 private InputAction interact;
 public bool isInside = false;
-
+public GameObject door;
 private CheckDoor checkDoor;
 
 
@@ -27,7 +27,7 @@ void Awake()
     SetPopupTextVisibility2(false);
     SetPopupTextVisibility(false);
     playerAction = new Playeractions();
-    
+    checkDoor = door.GetComponent<CheckDoor>();
     
 
 }
@@ -62,9 +62,6 @@ void OnTriggerExit2D(Collider2D other)
      }      
   
 }
-
-
-
 void SetPopupTextVisibility(bool isVisible)
 {
     popupText.SetActive(isVisible);
@@ -74,5 +71,4 @@ void SetPopupTextVisibility2(bool isVisible)
     
     popupText2.SetActive(isVisible);
 }
-    
 }

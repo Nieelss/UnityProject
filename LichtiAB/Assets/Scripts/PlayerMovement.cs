@@ -56,7 +56,8 @@ public class PlayerMovement : MonoBehaviour
     }
    public void setBool()
    {    
-        Debug.Log("Ich werde aufgerufen-setBool");
+       
          canEnter = true;
+          Debug.Log("Ich werde aufgerufen-setBool" +  canEnter);
     }
 }
