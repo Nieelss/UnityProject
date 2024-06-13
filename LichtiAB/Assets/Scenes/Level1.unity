@@ -507,7 +507,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 4274647381535917897}
-  newSprite: {fileID: 21300000, guid: a431a6fadf37c32409e2da0c7649bc65, type: 3}
+  newSprite: {fileID: 21300000, guid: 46ba24fa833f23e4c917762313d74adc, type: 3}
 --- !u!95 &273079258
 Animator:
   serializedVersion: 5
