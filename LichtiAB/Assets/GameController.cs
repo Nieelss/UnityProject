@@ -59,13 +59,13 @@ public class GameController : MonoBehaviour
             firstGuess = true;
            firstGuessIndex = int.Parse(UnityEngine.EventSystems.EventSystem.current.currentSelectedGameObject.name);
 
-           firstGuessPuzzle = gamePuzzles[firstGuessIndex].name;
+           //firstGuessPuzzle = gamePuzzles[firstGuessIndex].name;
            btns[firstGuessIndex].image.sprite = gamePuzzles[firstGuessIndex];
         }else if(!secondGuess){
              secondGuess = true;
            secondGuessIndex = int.Parse(UnityEngine.EventSystems.EventSystem.current.currentSelectedGameObject.name);
 
-           secondGuessPuzzle = gamePuzzles[secondGuessIndex].name;
+           //secondGuessPuzzle = gamePuzzles[secondGuessIndex].name;
            btns[secondGuessIndex].image.sprite = gamePuzzles[secondGuessIndex];
         }
     }
