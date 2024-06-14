@@ -17,7 +17,7 @@ public Playeractions playerAction;
 private InputAction interact;
 public bool isInside = false;
 
-private CheckDoor checkDoor;
+//private CheckDoor checkDoor;
 
 
  
@@ -49,7 +49,7 @@ void OnTriggerExit2D(Collider2D other)
         Debug.Log("Worked");
         SetPopupTextVisibility2(true);
         isInside = true;
-        checkDoor.checkEnter();
+        //checkDoor.checkEnter();
     }
  }
  void OnInteract(InputValue value)
