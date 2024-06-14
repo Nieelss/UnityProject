@@ -42,12 +42,13 @@ public class InputHandler : MonoBehaviour
           
           
         if(input == "Georg Ridinger"){
+            playerMovement.setBool();
             resultText.text = "Sehr gut, Richtige Antwort!";
             resultText.color = Color.green;
             Debug.Log("if else funktioniert");
             antwortText.SetActive(true);
 
-            playerMovement.setBool();
+            
             playerMovement.SetCanMove(true);
             interactionWardrobe.HideUI();
             interactionWardrobe.SetPopupTextVisibility(false);

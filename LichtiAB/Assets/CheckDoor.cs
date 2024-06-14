@@ -23,10 +23,10 @@ public class CheckDoor : MonoBehaviour
     if(playerMovement.canEnter == true)
     {   
         Debug.Log("checkEnter wird aufgerufen");
-         
-           spriteRenderer.sprite = newSprite;
-        
          boxCollider2D.enabled = false;
+        spriteRenderer.sprite = newSprite;
+        
+         
        // animation.SetTrigger("DoorTrigger");
         
     }
