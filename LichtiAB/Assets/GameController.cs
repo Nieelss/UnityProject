@@ -16,11 +16,15 @@ public class GameController : MonoBehaviour
     private int countCorrectguesses;
     private int gameGuesses;
     private string firstGuessName, secondGuessName;
-    private int firstGuessIndex, secondGuessIndex;
+    private int firstGuessIndex;
+    private int secondGuessIndex;
+    private string firstGuessPuzzle, secondGuessPuzzle;
     void Start(){
         GetButtons();
         AddListeners();
         AddGamePuzzle();
+        Shuffle (gamePuzzles);
+        gameGuesses = gamePuzzles.Count / 2;
     }
     void Awake(){
         sprites = Resources.LoadAll<Sprite> ("Images/Aschaffenburg");
@@ -59,14 +63,57 @@ public class GameController : MonoBehaviour
             firstGuess = true;
            firstGuessIndex = int.Parse(UnityEngine.EventSystems.EventSystem.current.currentSelectedGameObject.name);
 
-           //firstGuessPuzzle = gamePuzzles[firstGuessIndex].name;
+           firstGuessPuzzle = gamePuzzles[firstGuessIndex].name;
            btns[firstGuessIndex].image.sprite = gamePuzzles[firstGuessIndex];
         }else if(!secondGuess){
              secondGuess = true;
            secondGuessIndex = int.Parse(UnityEngine.EventSystems.EventSystem.current.currentSelectedGameObject.name);
 
-           //secondGuessPuzzle = gamePuzzles[secondGuessIndex].name;
+           secondGuessPuzzle = gamePuzzles[secondGuessIndex].name;
            btns[secondGuessIndex].image.sprite = gamePuzzles[secondGuessIndex];
+           StartCoroutine(CheckifThePuzzlesMatch());
+        }
+    }
+    IEnumerator CheckifThePuzzlesMatch(){
+        yield return new WaitForSeconds(1f);
+
+        if(firstGuessPuzzle == secondGuessPuzzle){
+
+             yield return new WaitForSeconds(.5f);
+
+            btns[firstGuessIndex].interactable = false;
+            btns[secondGuessIndex].interactable = false;
+
+            btns[firstGuessIndex].image.color = new Color(0, 0, 0, 0);
+            btns[secondGuessIndex].image.color = new Color(0, 0, 0, 0);
+
+            CheckIfTheGameIsFinished();
+        } else {
+
+             yield return new WaitForSeconds(.5f);
+
+            btns[firstGuessIndex].image.sprite = bgImage;
+            btns[secondGuessIndex].image.sprite = bgImage;
+        }
+        yield return new WaitForSeconds(.5f);
+
+        firstGuess = secondGuess = false;
+       
+    }
+    void CheckIfTheGameIsFinished(){
+        countCorrectguesses++;
+        if(countCorrectguesses == gameGuesses){
+            Debug.Log("Game Finished");
+            Debug.Log("It took you " + countguesses + "to finish the Puzzle");
+        }
+
+    }
+    void Shuffle(List<Sprite> list) {
+        for(int i = 0; i < list.Count; i++){
+            Sprite temp = list[i];
+            int randomIndex = Random.Range(i, list.Count);
+            list[i] = list[randomIndex];
+            list[randomIndex] = temp;
         }
     }
 }
