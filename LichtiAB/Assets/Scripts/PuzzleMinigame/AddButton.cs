@@ -9,7 +9,7 @@ public class AddButton : MonoBehaviour
      [SerializeField]
      private GameObject btn;
    void Awake(){
-        for(int i = 0; i < 7; i++){
+        for(int i = 0; i < 8; i++){
             GameObject button = Instantiate(btn);
             button.name = "" + i;
             button.transform.SetParent(puzzlefield, false);
