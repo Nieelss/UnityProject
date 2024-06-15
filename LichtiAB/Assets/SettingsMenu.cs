@@ -1,18 +1,38 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Audio;
+using UnityEngine.Events;
+using UnityEngine.UI;
 
 public class SettingsMenu : MonoBehaviour
 {
-    public AudioMixer audioMixer;
-    public void SetVolume (float volume)
+    public Slider volumeSlider;
+    public TMP_Dropdown graphicsDropdown;
+    void Start()
     {
-        audioMixer.SetFloat("volume", volume);
+        if (AudioManager.Instance != null)
+        {
+            volumeSlider.value = AudioManager.Instance.volume;
+        }
+        volumeSlider.onValueChanged.AddListener(OnVolumeSliderChanged);
+
+        graphicsDropdown.value = QualitySettings.GetQualityLevel();
+
+        graphicsDropdown.onValueChanged.AddListener(delegate { ChangeGraphicsQuality(); });
     }
 
-    public void SetQuality (int qualityIndex)
+    private void OnVolumeSliderChanged(float value)
     {
-        QualitySettings.SetQualityLevel(qualityIndex);
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.SetVolume(value);
+        }
+    }
+
+    public void ChangeGraphicsQuality() 
+    {
+        QualitySettings.SetQualityLevel(graphicsDropdown.value);
     }
 }
