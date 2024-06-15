@@ -11,6 +11,7 @@ public class CheckDoor : MonoBehaviour
     private BoxCollider2D boxCollider2D;
     public Sprite newSprite;
     private SpriteRenderer spriteRenderer;
+    public GameObject door;
     void Start()
     {
         playerMovement = player.GetComponent<PlayerMovement>();
@@ -25,6 +26,7 @@ public class CheckDoor : MonoBehaviour
         Debug.Log("checkEnter wird aufgerufen");
          boxCollider2D.enabled = false;
         spriteRenderer.sprite = newSprite;
+        door.SetActive(false);
         
          
        // animation.SetTrigger("DoorTrigger");
