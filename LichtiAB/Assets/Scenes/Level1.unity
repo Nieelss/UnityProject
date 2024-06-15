@@ -178,7 +178,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_text
-      value: Interessant, ich habe bisher noch nie ein Wappen gesehen.
+      value: Interessant.
       objectReference: {fileID: 0}
     - target: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_fontSize
@@ -1169,6 +1169,96 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 9202171332023693728, guid: c12a96b382e8c2a49b1c66d4d693917e, type: 3}
   m_PrefabInstance: {fileID: 327586112}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &396136634
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 396136637}
+  - component: {fileID: 396136636}
+  - component: {fileID: 396136635}
+  m_Layer: 0
+  m_Name: LoadMinigame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &396136635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396136634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f77ddf011d16611478167087f64f43e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!61 &396136636
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396136634}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!4 &396136637
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396136634}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 26.04, y: 11.52, z: 95.134254}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &409595315 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4733409326984928469, guid: f8ebfa668fa81c5419c572bd72adcc88, type: 3}
@@ -85752,8 +85842,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_text
-      value: Uii die sehen aber garnicht mehr gut aus. Die wurden lange nicht mehr
-        gegossen
+      value: Die sehen aber garnicht mehr gut aus. Die wurden lange nicht mehr gegossen
       objectReference: {fileID: 0}
     - target: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_fontSize
@@ -91763,6 +91852,111 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1291725814141019539, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
   m_PrefabInstance: {fileID: 1571942900}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1551567518
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1551567521}
+  - component: {fileID: 1551567520}
+  - component: {fileID: 1551567519}
+  - component: {fileID: 1551567522}
+  m_Layer: 0
+  m_Name: LoadIntopuzzleGame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1551567519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1551567518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9373ad3f0a9d6d4ab0198151ca9577d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!61 &1551567520
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1551567518}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.42264748}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 3.0948563}
+  m_EdgeRadius: 0
+--- !u!4 &1551567521
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1551567518}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12.46, y: 23.48, z: 90}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1551567522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1551567518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24c8dfb5847a23549b2697abf8075b76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneToLoad: MiniGame
+  load: {fileID: 0}
 --- !u!1001 &1571942900
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -92138,8 +92332,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_text
-      value: "Die Schublade ist verriegelt. Ich brauche den Namen f\xFCr den Baumeister
-        dieses Schlosses."
+      value: "Mist die Schrankt\xFCr ist verschlossen. Wem k\xF6nnte dieser Schrank
+        geh\xF6ren....wie war noch gleich der name des Baumeisters dieses Schlosses?"
       objectReference: {fileID: 0}
     - target: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_fontSize
@@ -92343,6 +92537,51 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 7558480316390297210, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
   m_PrefabInstance: {fileID: 1606606054}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1652123304
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1652123306}
+  - component: {fileID: 1652123305}
+  m_Layer: 0
+  m_Name: SceneSwitcherManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1652123305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652123304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0ef33ff171f72947a00477a959c9a45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topDownSceneName: Level1
+--- !u!4 &1652123306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652123304}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.893674, y: 19.364956, z: 160.21051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!213 &1660327609
 Sprite:
   m_ObjectHideFlags: 0
@@ -94485,7 +94724,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_text
-      value: "Sch\xF6ne Pflanze. Aber waren sie schonmal in Bayern."
+      value: "Sch\xF6ne Pflanze. "
       objectReference: {fileID: 0}
     - target: {fileID: 68248343828636667, guid: 1e1de6f381c7d5c4788bffdbf7567991, type: 3}
       propertyPath: m_fontSize
@@ -96017,3 +96256,6 @@ SceneRoots:
   - {fileID: 273079256}
   - {fileID: 1368273596}
   - {fileID: 1986673713}
+  - {fileID: 1551567521}
+  - {fileID: 1652123306}
+  - {fileID: 396136637}
