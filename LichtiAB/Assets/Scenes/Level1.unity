@@ -490,7 +490,7 @@ Transform:
   m_GameObject: {fileID: 273079253}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.46, y: 4.47, z: -0.98227066}
+  m_LocalPosition: {x: 1.41, y: 4.45, z: -0.98227066}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -510,6 +510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 4274647381535917897}
   newSprite: {fileID: 21300000, guid: 46ba24fa833f23e4c917762313d74adc, type: 3}
+  door: {fileID: 273079253}
 --- !u!95 &273079258
 Animator:
   serializedVersion: 5
@@ -93183,7 +93184,7 @@ RectTransform:
   m_GameObject: {fileID: 1819104290}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0265, y: 5.229376, z: 1.0265}
+  m_LocalScale: {x: 1.1079271, y: 4.1383743, z: 1.0809045}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1353362935}
@@ -93191,8 +93192,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -94.03003, y: -59.47998}
-  m_SizeDelta: {x: 64.52, y: 11.26}
+  m_AnchoredPosition: {x: -1693, y: -87}
+  m_SizeDelta: {x: 75.05, y: 13.21}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1819104292
 MonoBehaviour:
@@ -93263,14 +93264,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
+  m_Color: {r: 0.6226415, g: 0.54661644, b: 0.31425774, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b8fffee0a6e437d4086d36889fc588b5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 412f3fc6181f8c24fae016a95b21baa3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -94264,7 +94265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 349898abf3ea8fc49afb7d8e3fd3add6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.8
+  speed: 2
   range: 4
   maxDistance: 4
 --- !u!61 &1986673710
