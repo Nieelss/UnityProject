@@ -7,14 +7,14 @@ public class CheckDoor : MonoBehaviour
 {
     public GameObject player;
     private PlayerMovement playerMovement;
-    private Animator animation;
+    //private Animator animation;
     private BoxCollider2D boxCollider2D;
     public Sprite newSprite;
     private SpriteRenderer spriteRenderer;
     void Start()
     {
         playerMovement = player.GetComponent<PlayerMovement>();
-        animation = GetComponent<Animator>();
+        //animation = GetComponent<Animator>();
         boxCollider2D = GetComponent<BoxCollider2D>();
          spriteRenderer = GetComponent<SpriteRenderer>();
     }
