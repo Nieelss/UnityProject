@@ -108,7 +108,7 @@ public class GameController : MonoBehaviour
            //FindObjectOfType<SceneController>().ReturnToMainScene();
             Debug.Log("Game Finished");
             Debug.Log("It took you " + countguesses + "to finish the Puzzle");
-
+             SceneManager.UnloadSceneAsync("MiniGame");
         }
 
     }
