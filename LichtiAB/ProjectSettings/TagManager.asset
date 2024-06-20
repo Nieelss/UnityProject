@@ -5,8 +5,6 @@ TagManager:
   serializedVersion: 2
   tags:
   - Text
-  - Undefined
-  - PuzzleButton
   layers:
   - Default
   - TransparentFX
@@ -44,30 +42,27 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Room1_Bildergalerie
+  - name: Bildergalerie1
     uniqueID: 3613886945
     locked: 0
-  - name: Room2_Bildergalerie
+  - name: Bildergalerie2
     uniqueID: 3772508723
     locked: 0
-  - name: Room3_Church
+  - name: Bildergalerie3
     uniqueID: 3898406095
     locked: 0
-  - name: Room3_ChurchStudyRoom
+  - name: Church
     uniqueID: 379143371
     locked: 0
-  - name: Room4_Bedroom
+  - name: Kitchen
     uniqueID: 1370817375
     locked: 0
-  - name: Room4_Bedroom2
+  - name: Bedroom1
     uniqueID: 2453859113
     locked: 0
-  - name: Room4_Bedroom3
+  - name: Bedroom2
     uniqueID: 689968611
     locked: 0
-  - name: Esszimmer
+  - name: Bedroom3
     uniqueID: 3037026443
-    locked: 0
-  - name: "K\xFCche"
-    uniqueID: 143673465
     locked: 0
