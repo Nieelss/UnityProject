@@ -2,16 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[System.Serializable]
+public class NPCSpawnInfo
+{
+    public GameObject npcPrefab; // The prefab to instantiate
+    public Vector2 spawnPoint; // The position to instantiate the NPC
+}
+
 public class NPCManager : MonoBehaviour
 {
-    public GameObject npcPrefab;
-    public List<Vector2> spawnPoints; // List of specific spawn points
+    public List<NPCSpawnInfo> npcSpawnInfos; // List of NPC spawn information
 
     void Start()
     {
-        foreach (Vector2 spawnPoint in spawnPoints)
+        foreach (NPCSpawnInfo spawnInfo in npcSpawnInfos)
         {
-            Instantiate(npcPrefab, spawnPoint, Quaternion.identity);
+            Instantiate(spawnInfo.npcPrefab, spawnInfo.spawnPoint, Quaternion.identity);
         }
     }
 }

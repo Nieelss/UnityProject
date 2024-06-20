@@ -339,10 +339,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0b83ec233947f24d815264e62e28fd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npcPrefab: {fileID: 1366745297205580461, guid: 6f2d3ef6521ec5c40a1f3f657a201399, type: 3}
-  spawnPoints:
-  - {x: 20, y: 50}
-  - {x: 20, y: 30}
+  npcSpawnInfos:
+  - npcPrefab: {fileID: 2763098531604233041, guid: c841ea29bdf510a4d9e1899d9b160d6b, type: 3}
+    spawnPoint: {x: -1, y: 62}
+  - npcPrefab: {fileID: 1366745297205580461, guid: 6f2d3ef6521ec5c40a1f3f657a201399, type: 3}
+    spawnPoint: {x: 44, y: 0}
+  - npcPrefab: {fileID: 2763098531604233041, guid: c841ea29bdf510a4d9e1899d9b160d6b, type: 3}
+    spawnPoint: {x: 43, y: 0}
 --- !u!4 &150372846
 Transform:
   m_ObjectHideFlags: 0
@@ -352,7 +355,7 @@ Transform:
   m_GameObject: {fileID: 150372844}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.71, y: 2.67, z: -0.0009611048}
+  m_LocalPosition: {x: 17.46, y: 3.53, z: -0.0009611048}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -85666,7 +85669,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 60
+  m_SortingOrder: 19
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -89881,7 +89884,7 @@ Transform:
   m_GameObject: {fileID: 1086292218}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.6786901, y: 8.906722, z: -2.159064}
+  m_LocalPosition: {x: 1.6786901, y: 8.81, z: -2.159064}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
