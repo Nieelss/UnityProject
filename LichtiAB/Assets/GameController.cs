@@ -19,14 +19,12 @@ public class GameController : MonoBehaviour
     private int firstGuessIndex;
     private int secondGuessIndex;
     private string firstGuessPuzzle, secondGuessPuzzle;
-    
     void Start(){
         GetButtons();
         AddListeners();
         AddGamePuzzle();
         Shuffle (gamePuzzles);
         gameGuesses = gamePuzzles.Count / 2;
-       
     }
     void Awake(){
         sprites = Resources.LoadAll<Sprite> ("Images/Aschaffenburg");
@@ -79,7 +77,7 @@ public class GameController : MonoBehaviour
     IEnumerator CheckifThePuzzlesMatch(){
         yield return new WaitForSeconds(1f);
 
-        if(firstGuessPuzzle == secondGuessPuzzle && firstGuessIndex != secondGuessIndex){
+        if(firstGuessPuzzle == secondGuessPuzzle){
 
              yield return new WaitForSeconds(.5f);
 
@@ -105,10 +103,10 @@ public class GameController : MonoBehaviour
     void CheckIfTheGameIsFinished(){
         countCorrectguesses++;
         if(countCorrectguesses == gameGuesses){
-           //FindObjectOfType<SceneController>().ReturnToMainScene();
             Debug.Log("Game Finished");
             Debug.Log("It took you " + countguesses + "to finish the Puzzle");
-             SceneManager.UnloadSceneAsync("MiniGame");
+                SceneManager.LoadScene("Level1");
+
         }
 
     }

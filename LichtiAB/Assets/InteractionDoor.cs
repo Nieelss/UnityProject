@@ -18,17 +18,16 @@ private InputAction interact;
 public bool isInside = false;
 public GameObject door;
 private CheckDoor checkDoor;
- public GameObject player;
-    private PlayerMovement playerMovement;
 
 
  
 void Awake()
 {
+    bC2d = GetComponent<BoxCollider2D>();
     SetPopupTextVisibility2(false);
     SetPopupTextVisibility(false);
+    playerAction = new Playeractions();
     checkDoor = door.GetComponent<CheckDoor>();
-    playerMovement = player.GetComponent<PlayerMovement>();
     
 
 }
@@ -46,12 +45,10 @@ void OnTriggerExit2D(Collider2D other)
 
  void OnTriggerEnter2D(Collider2D other) 
  {
-    if(other.CompareTag("Player") && playerMovement.canEnter == false){
+    if(other.CompareTag("Player")){
         Debug.Log("Worked");
         SetPopupTextVisibility2(true);
         isInside = true;
-        
-    }else{
         checkDoor.checkEnter();
     }
  }

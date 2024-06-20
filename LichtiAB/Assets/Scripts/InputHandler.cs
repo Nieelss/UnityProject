@@ -8,7 +8,7 @@ public class InputHandler : MonoBehaviour
     //referenz aus inputfield
     [SerializeField] InputField inputField;
     //textfeld referenz
-    [SerializeField] Text resultText;
+    [SerializeField] TMP_Text resultText;
 
     public GameObject antwortText;
 
@@ -44,7 +44,7 @@ public class InputHandler : MonoBehaviour
         if(input == "Georg Ridinger"){
             playerMovement.setBool();
             resultText.text = "Sehr gut, Richtige Antwort!";
-            resultText.color = new Color(0.0f, 0.5f, 0.0f);
+            resultText.color = Color.green;
             Debug.Log("if else funktioniert");
             antwortText.SetActive(true);
 
