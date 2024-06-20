@@ -79,7 +79,7 @@ public class GameController : MonoBehaviour
     IEnumerator CheckifThePuzzlesMatch(){
         yield return new WaitForSeconds(1f);
 
-        if(firstGuessPuzzle == secondGuessPuzzle){
+        if(firstGuessPuzzle == secondGuessPuzzle && firstGuessIndex != secondGuessIndex){
 
              yield return new WaitForSeconds(.5f);
 
