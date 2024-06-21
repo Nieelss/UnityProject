@@ -3,36 +3,33 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NPCBehaviour : MonoBehaviour
-{
+{   
     [SerializeField]
-    float speed = 2f;
+    float speed;
     [SerializeField]
-    float range = 4f;
+    float range;
     [SerializeField]
-    float maxDistance = 4f;
+    float maxDistance;
 
     Vector2 wayPoint;
-    Vector2 initialPosition;
 
+  
     void Start()
     {
-        initialPosition = transform.position;
-        SetNewDestination();
+      SetNewDestination();  
     }
 
+ 
     void Update()
     {
         transform.position = Vector2.MoveTowards(transform.position, wayPoint, speed * Time.deltaTime);
-        if (Vector2.Distance(transform.position, wayPoint) < range)
-        {
+        if(Vector2.Distance(transform.position, wayPoint) < range){
             SetNewDestination();
         }
     }
 
     void SetNewDestination()
     {
-        float newX = Random.Range(initialPosition.x - maxDistance, initialPosition.x + maxDistance);
-        float newY = Random.Range(initialPosition.y - maxDistance, initialPosition.y + maxDistance);
-        wayPoint = new Vector2(newX, newY);
+        wayPoint = new Vector2(Random.Range(-maxDistance, maxDistance), Random.Range(-maxDistance, maxDistance)); 
     }
 }
