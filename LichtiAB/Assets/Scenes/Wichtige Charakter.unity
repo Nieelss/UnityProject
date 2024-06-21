@@ -134,7 +134,6 @@ GameObject:
   - component: {fileID: 79642151}
   - component: {fileID: 79642154}
   - component: {fileID: 79642153}
-  - component: {fileID: 79642152}
   m_Layer: 5
   m_Name: "Einf\xFChrung"
   m_TagString: Untagged
@@ -161,22 +160,6 @@ RectTransform:
   m_AnchoredPosition: {x: 128, y: -55}
   m_SizeDelta: {x: 494.4215, y: 185.6545}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &79642152
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 79642150}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 35d0c2b186ea77d4baf36d3a70f52019, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  delayBeforeStart: 0
-  timeBtwChars: 0.02
-  leadingChar: 
-  leadingCharBeforeDelay: 0
 --- !u!114 &79642153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -508,7 +491,6 @@ GameObject:
   - component: {fileID: 205568337}
   - component: {fileID: 205568336}
   - component: {fileID: 205568340}
-  - component: {fileID: 205568341}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -613,20 +595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab3a4d76c3dbe344ea2b1cfe713e612f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &205568341
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 205568335}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8ebc3411d53d7c489b439a616f8c092, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  volumeSlider: {fileID: 0}
-  graphicsDropdown: {fileID: 0}
 --- !u!1 &463817411
 GameObject:
   m_ObjectHideFlags: 0
