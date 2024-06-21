@@ -79,7 +79,7 @@ public class GameController : MonoBehaviour
     IEnumerator CheckifThePuzzlesMatch(){
         yield return new WaitForSeconds(1f);
 
-        if(firstGuessPuzzle == secondGuessPuzzle && firstGuessIndex != secondGuessIndex){
+        if(firstGuessPuzzle == secondGuessPuzzle){
 
              yield return new WaitForSeconds(.5f);
 
@@ -108,7 +108,7 @@ public class GameController : MonoBehaviour
            //FindObjectOfType<SceneController>().ReturnToMainScene();
             Debug.Log("Game Finished");
             Debug.Log("It took you " + countguesses + "to finish the Puzzle");
-             SceneManager.UnloadSceneAsync("MiniGame");
+
         }
 
     }
