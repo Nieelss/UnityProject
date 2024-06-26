@@ -29,4 +29,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/1945.unity
     guid: e42bd73e4a115514daceb891092cb36b
+  - enabled: 1
+    path: Assets/Scenes/1730-1731.unity
+    guid: cf9011239f436fc4c95882d6cc251c09
+  - enabled: 1
+    path: Assets/Scenes/1682.unity
+    guid: 641535db64642c04bb2582bf92f775b0
+  - enabled: 1
+    path: Assets/Scenes/Room1Text.unity
+    guid: f465e74d173a33c4487abd8d29c6bc90
+  - enabled: 1
+    path: Assets/Scenes/QuizScene.unity
+    guid: db70dab74ea5281478214044014a6390
   m_configObjects: {}
