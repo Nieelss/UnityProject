@@ -39,7 +39,7 @@ public class DetectionEnemy : MonoBehaviour
         
         yield return new WaitForSeconds(gameOverDelay);
 
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("GameOver");
         Debug.Log("Game Over!");
 
        

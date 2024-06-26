@@ -31,7 +31,7 @@ public class InputHandler : MonoBehaviour
         //skript zuweisung von player object auf die variable      
             playerMovement = player.GetComponent<PlayerMovement>();
        interactionWardrobe = a.GetComponent<InteractionWardrobe>();
-       antwortText.SetActive(false);
+       
        
     }
    
@@ -39,7 +39,7 @@ public class InputHandler : MonoBehaviour
     public void ValidateInput(){
         //mit inputfield.text bekommt man den text in form eines strings und das weise ich der input variable zu
         string input = inputField.text;
-          
+        
           
         if(input == "Georg Ridinger"){
             playerMovement.setBool();
@@ -47,7 +47,7 @@ public class InputHandler : MonoBehaviour
             resultText.color = new Color(0.0f, 0.5f, 0.0f);
             Debug.Log("if else funktioniert");
             antwortText.SetActive(true);
-
+            
             
             playerMovement.SetCanMove(true);
             interactionWardrobe.HideUI();

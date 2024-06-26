@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MiniGame.unity
     guid: f671487747d44ff469761b4ff8c8a0b5
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 3a59389b14708a247a2591eb094b4dfd
+  - enabled: 1
+    path: Assets/Scenes/Johann Schweikhard.unity
+    guid: 59d8704f3969fcc4b96da7da3440621e
+  - enabled: 1
+    path: Assets/Scenes/1945.unity
+    guid: e42bd73e4a115514daceb891092cb36b
   m_configObjects: {}

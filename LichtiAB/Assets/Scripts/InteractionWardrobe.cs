@@ -85,6 +85,7 @@ void OnTriggerExit2D(Collider2D other)
         Debug.Log("Funktiniert");
         //interaktiver text angezeigt
        SetPopupTextVisibility(true);
+       SetPopupTextVisibility3(true);
         //Inspizieren verschwindet
         SetPopupTextVisibility2(false);
         //außerdem wird das input field und button angezeigt
