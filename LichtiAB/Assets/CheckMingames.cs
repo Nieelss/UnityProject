@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class CheckMiniGames : MonoBehaviour
 {
     public GameObject character;
@@ -31,8 +31,7 @@ public class CheckMiniGames : MonoBehaviour
     {
         if (counterScenes.gameScenesLoaded == 5)
         {   
-           
-
+           // SceneManager.LoadScene("");
             Debug.Log("Game finished");
         }
         else
