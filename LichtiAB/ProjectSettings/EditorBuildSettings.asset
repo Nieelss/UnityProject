@@ -47,4 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TrueFalseQuizScene.unity
     guid: 2737a8ca1a69a4f40aa63b23a9c28bf0
+  - enabled: 1
+    path: Assets/Scenes/PuzzleKapelle.unity
+    guid: dccf07753fb6f9d489580ad0e8119e02
   m_configObjects: {}

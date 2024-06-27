@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class CounterScenes : MonoBehaviour
 {
-    int gameScenesLoaded = 0;
+    public int gameScenesLoaded = 10;
     public Text counterText; 
     public void sceneCounter(){
         gameScenesLoaded++;
