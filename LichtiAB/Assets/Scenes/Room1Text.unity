@@ -198,7 +198,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 8a2b9e2a607dd2143b58c44bc32410b4, type: 3}
+    m_Font: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
     m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0
@@ -209,7 +209,7 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 1.5
   m_Text: Georg Ridinger war ein deutscher Architekt und Baumeister. Er lebte von
     1568 bis 1617 und Starb in Aschaffenburg. Sein bedeutendstes Bauwerk war das
     schloss johannisburg. Der Bau des Schlosses dauerte neun Jahre(von 1605 bis 1614).

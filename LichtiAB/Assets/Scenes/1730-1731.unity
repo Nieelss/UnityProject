@@ -158,7 +158,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 122.8839, y: -56.3613}
+  m_AnchoredPosition: {x: 113, y: 67}
   m_SizeDelta: {x: 494.4215, y: 185.6545}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &79642152
@@ -198,7 +198,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 8a2b9e2a607dd2143b58c44bc32410b4, type: 3}
+    m_Font: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
     m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
@@ -209,8 +209,8 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: "m 17. Jahrhundert war die Bibliothek des Schlosses Johannisburg in Aschaffenburg
+    m_LineSpacing: 1.5
+  m_Text: "Im 17. Jahrhundert war die Bibliothek des Schlosses Johannisburg in Aschaffenburg
     ein glanzvolles Zentrum des Wissens. Unter der Schirmherrschaft von Kurf\xFCrst
     Johann Schweikhard von Kronberg beherbergte sie eine kostbare Sammlung von B\xFCchern,
     Handschriften und wissenschaftlichen Werken. Diese Bibliothek war nicht nur ein

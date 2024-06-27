@@ -151,15 +151,15 @@ RectTransform:
   m_GameObject: {fileID: 79642150}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.78787, y: 0.78787, z: 0.78787}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 205568339}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 122.8839, y: -56.3613}
-  m_SizeDelta: {x: 494.4215, y: 185.6545}
+  m_AnchoredPosition: {x: 71, y: 9}
+  m_SizeDelta: {x: 497.4416, y: 472.2318}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &79642152
 MonoBehaviour:
@@ -198,7 +198,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 8a2b9e2a607dd2143b58c44bc32410b4, type: 3}
+    m_Font: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
     m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
@@ -209,7 +209,7 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 1.5
   m_Text: "Die Ern\xE4hrung der Adligen im Schloss Johannisburg bestand aus einer
     Vielzahl von Gerichten, die oft aus den besten Zutaten hergestellt wurden, die
     zur Verf\xFCgung standen. Wild, Gefl\xFCgel, Fisch und verschiedene Fleischsorten

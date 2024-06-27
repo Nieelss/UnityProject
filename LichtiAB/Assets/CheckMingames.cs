@@ -29,7 +29,7 @@ public class CheckMiniGames : MonoBehaviour
 
     public void checkIfMiniGamesPlayed()
     {
-        if (counterScenes.gameScenesLoaded == 9)
+        if (counterScenes.gameScenesLoaded == 5)
         {   
            
 

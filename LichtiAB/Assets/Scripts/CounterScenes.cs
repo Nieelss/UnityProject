@@ -23,9 +23,9 @@ public class CounterScenes : MonoBehaviour
     private void UpdateCounterText()
     {
         
-        if (gameScenesLoaded < 10)
+        if (gameScenesLoaded < 6)
         {
-            counterText.text = "MiniGames finished: " + gameScenesLoaded + "/9";
+            counterText.text = "MiniGames abgeschlossen: " + gameScenesLoaded + "/5";
         }
         else
         {
