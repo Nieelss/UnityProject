@@ -2,18 +2,35 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+
 public class CounterScenes : MonoBehaviour
 {
-    public int gameScenesLoaded = 10;
-    public Text counterText; 
-    public void sceneCounter(){
+    public int gameScenesLoaded; // Start with 10 for testing
+    public Text counterText;
+
+    void Start()
+    {
+        UpdateCounterText();
+    }
+
+    public void sceneCounter()
+    {
         gameScenesLoaded++;
-        if(gameScenesLoaded < 10){
+        UpdateCounterText();
+        Debug.Log("SceneCounter: gameScenesLoaded = " + gameScenesLoaded);
+    }
+
+    private void UpdateCounterText()
+    {
+        gameScenesLoaded = 9;
+        if (gameScenesLoaded < 10)
+        {
             counterText.text = "MiniGames finished: " + gameScenesLoaded + "/9";
-         Debug.Log("SceneCounter");
-        }else{
-             counterText.text = "Zeitmaschine betriebsbereit";
         }
-        
+        else
+        {
+            counterText.text = "Zeitmaschine betriebsbereit";
+        }
     }
 }
+
