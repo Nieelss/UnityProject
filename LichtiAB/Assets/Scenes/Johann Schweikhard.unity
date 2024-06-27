@@ -151,15 +151,15 @@ RectTransform:
   m_GameObject: {fileID: 79642150}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.0795, y: 1.0795, z: 1.0795}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 205568339}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 122.8839, y: -56.3613}
-  m_SizeDelta: {x: 494.4215, y: 185.6545}
+  m_AnchoredPosition: {x: 121.98251, y: -59.966732}
+  m_SizeDelta: {x: 492.6187, y: 178.4436}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &79642152
 MonoBehaviour:
@@ -210,8 +210,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Waehrend des 30-jaehrigen Krieges wurde das schloss kurzzeitig von schwedischen
-    Truppen besetzt, aber spaeter von kaiserlichen Truppen zurueckerobert
+  m_Text: "Johann Schweikhard von Kronberg, ein Mann von tiefer Weisheit und kulturellem
+    Feingef\xFChl, herrschte im 17. Jahrhundert als Kurf\xFCrst und Erzbischof von
+    Mainz. Seine Pr\xE4senz im pr\xE4chtigen Schloss Johannisburg in Aschaffenburg
+    war nicht nur von Autorit\xE4t gepr\xE4gt, sondern auch von einem starken Engagement
+    f\xFCr Kunst und Kultur. Seine Entscheidungen, gepr\xE4gt von diplomatischem
+    Geschick, hinterlie\xDFen ein bedeutendes Erbe, das Mainz als Zentrum der geistigen
+    Erneuerung st\xE4rkte und seine Zeitgenossen nachhaltig beeindruckte."
 --- !u!222 &79642154
 CanvasRenderer:
   m_ObjectHideFlags: 0

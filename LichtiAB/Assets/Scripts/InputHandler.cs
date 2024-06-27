@@ -8,7 +8,7 @@ public class InputHandler : MonoBehaviour
     //referenz aus inputfield
     [SerializeField] InputField inputField;
     //textfeld referenz
-    [SerializeField] Text resultText;
+    [SerializeField] TMP_Text resultText;
 
     public GameObject antwortText;
 
@@ -31,7 +31,7 @@ public class InputHandler : MonoBehaviour
         //skript zuweisung von player object auf die variable      
             playerMovement = player.GetComponent<PlayerMovement>();
        interactionWardrobe = a.GetComponent<InteractionWardrobe>();
-       
+       antwortText.SetActive(false);
        
     }
    
@@ -39,15 +39,15 @@ public class InputHandler : MonoBehaviour
     public void ValidateInput(){
         //mit inputfield.text bekommt man den text in form eines strings und das weise ich der input variable zu
         string input = inputField.text;
-        
+          
           
         if(input == "Georg Ridinger"){
             playerMovement.setBool();
             resultText.text = "Sehr gut, Richtige Antwort!";
-            resultText.color = new Color(0.0f, 0.5f, 0.0f);
+            resultText.color = Color.green;
             Debug.Log("if else funktioniert");
             antwortText.SetActive(true);
-            
+
             
             playerMovement.SetCanMove(true);
             interactionWardrobe.HideUI();

@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PuzzleKapelle.unity
     guid: dccf07753fb6f9d489580ad0e8119e02
+  - enabled: 1
+    path: Assets/Scenes/PuzzleWappen.unity
+    guid: c78156a8d0505db48bc2d754df2cd940
   m_configObjects: {}

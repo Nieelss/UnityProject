@@ -210,8 +210,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Der Fuerstbischoef Friedrich Karl von Schoenborn lie\xDF den praechtigen
-    Rittersaal im Inneren des Schlosses im Barockstil gestalten"
+  m_Text: "m 17. Jahrhundert war die Bibliothek des Schlosses Johannisburg in Aschaffenburg
+    ein glanzvolles Zentrum des Wissens. Unter der Schirmherrschaft von Kurf\xFCrst
+    Johann Schweikhard von Kronberg beherbergte sie eine kostbare Sammlung von B\xFCchern,
+    Handschriften und wissenschaftlichen Werken. Diese Bibliothek war nicht nur ein
+    Ort des Lesens, sondern auch ein Symbol f\xFCr den geistigen Reichtum und die
+    kulturelle Pracht der Zeit.\n\n\n\n\n\n\n"
 --- !u!222 &79642154
 CanvasRenderer:
   m_ObjectHideFlags: 0

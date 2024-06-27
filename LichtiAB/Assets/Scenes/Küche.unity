@@ -210,7 +210,21 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Filler Text
+  m_Text: "Die Ern\xE4hrung der Adligen im Schloss Johannisburg bestand aus einer
+    Vielzahl von Gerichten, die oft aus den besten Zutaten hergestellt wurden, die
+    zur Verf\xFCgung standen. Wild, Gefl\xFCgel, Fisch und verschiedene Fleischsorten
+    wurden regelm\xE4\xDFig auf den Tisch gebracht, wobei Wildgerichte besonders
+    beliebt waren.\nGem\xFCse und Obst wurden oft als Beilagen serviert, wobei die
+    Auswahl stark von der Jahreszeit abh\xE4ngig war. Die Zubereitung und Pr\xE4sentation
+    der Gerichte waren von gro\xDFer Bedeutung, da sie den Status und die Gastfreundschaft
+    der Gastgeber repr\xE4sentierten.\nDie Mahlzeiten selbst waren oft opulent und
+    umfassten mehrere G\xE4nge, die jeweils mit passenden Weinen begleitet wurden.
+    Es war \xFCblich, dass gro\xDFe Bankette und festliche Empf\xE4nge stattfanden,
+    bei denen die Speisen und Getr\xE4nke die G\xE4ste beeindrucken sollten.\nInsgesamt
+    war die kulinarische Kultur im Schloss Johannisburg im 17. Jahrhundert gepr\xE4gt
+    von einer Mischung aus lokalen Traditionen und internationalen Einfl\xFCssen,
+    die zusammenkamen, um eine exquisite und vielf\xE4ltige K\xFCche zu schaffen,
+    die den Geschmack und den Stil der Zeit widerspiegelte."
 --- !u!222 &79642154
 CanvasRenderer:
   m_ObjectHideFlags: 0
