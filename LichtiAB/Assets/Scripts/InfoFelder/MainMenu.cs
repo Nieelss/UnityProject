@@ -15,6 +15,7 @@ public class MainMenu : MonoBehaviour
 
     public void ClickToHome()
     {
+        
         SceneManager.LoadScene(0);
     }
 

@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PuzzleWappen.unity
     guid: c78156a8d0505db48bc2d754df2cd940
+  - enabled: 1
+    path: Assets/Scenes/Zeitmaschine.unity
+    guid: 3f998c6a45f59ad4b99df615e69135b7
   m_configObjects: {}

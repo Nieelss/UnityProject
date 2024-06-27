@@ -214,9 +214,8 @@ MonoBehaviour:
     euer begleitender Wissenschaftler aus dem Jahr 2100.\n\nEure Aufgabe ist es,
     mir als Partner zu helfen, einen Weg durch das  Schloss Johannisburg zu finden.\r\n\r\nBei
     einem missglueckten Experiment mit meiner Zeitmaschine bin ich versehentlich
-    durch die Zeit gereist. Dabei wurde meine Zeitmaschine zerstoert, und ihre Teile
-    sind nun im ganzen Schloss verstreut. \r\n\r\nBitte helft mir, diese Teile zu
-    finden, damit ich meine Zeitmaschine reparieren kann.\n\nAchtet darauf, nicht
+    durch die Zeit gereist. Dabei wurde meine Zeitmaschine zerstoert. \r\n\r\nSpielt
+    alle Minispiele um in meine Zeit zur\xFCck zu kehren.\n\nAchtet darauf, nicht
     gesehen zu werden, um ein gefaehrliches Zeitparadoxon zu vermeiden.\r\n\r\nIch
     zaehle auf euch.\r\n\r\nSeid ihr bereit?"
 --- !u!222 &79642154
@@ -492,7 +491,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 205568335}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab3a4d76c3dbe344ea2b1cfe713e612f, type: 3}
+  m_Script: {fileID: 11500000, guid: 607e835ed68777947968b6df939a0cd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &205568341
@@ -689,7 +688,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab3a4d76c3dbe344ea2b1cfe713e612f, type: 3}
+  m_Script: {fileID: 11500000, guid: 607e835ed68777947968b6df939a0cd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &780109823
@@ -966,7 +965,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1178744085}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab3a4d76c3dbe344ea2b1cfe713e612f, type: 3}
+  m_Script: {fileID: 11500000, guid: 607e835ed68777947968b6df939a0cd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1224153450 stripped

@@ -31,7 +31,7 @@ public class CheckMiniGames : MonoBehaviour
     {
         if (counterScenes.gameScenesLoaded == 5)
         {   
-           // SceneManager.LoadScene("");
+           SceneManager.LoadScene("Zeitmaschine");
             Debug.Log("Game finished");
         }
         else
