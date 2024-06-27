@@ -22,7 +22,7 @@ public class CounterScenes : MonoBehaviour
 
     private void UpdateCounterText()
     {
-        gameScenesLoaded = 9;
+        
         if (gameScenesLoaded < 10)
         {
             counterText.text = "MiniGames finished: " + gameScenesLoaded + "/9";
