@@ -81,7 +81,7 @@ void OnTriggerExit2D(Collider2D other)
  void OnInteract(InputValue value)
 {
     //wenn e gepresst und spieler auch in der zone ist
-     if(value.isPressed && isInside && !isInputFieldActive) {
+     if(value.isPressed && isInside) {
         Debug.Log("Funktiniert");
         //interaktiver text angezeigt
        SetPopupTextVisibility(true);
